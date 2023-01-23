@@ -4,18 +4,23 @@
   Hey, I'm Gustavo!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
 </h1><div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+	<img src="https://user-images.githubusercontent.com/34069292/214060285-a71a759a-cc84-4b93-803a-53797ee86c4e.png" alt="Gustavo Ennes website"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/gustavo-ennes/">
+  <a href="https://www.linkedin.com/in/gustavo-ennes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://wa.link/pv486s">
+  <a href="https://wa.link/pv486s" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  <a href="https://t.me/gustavoennes">
+  <a href="https://t.me/gustavoennes" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+</div>
+<div id='website' align='center'>
+	<a href="https://ennes.dev/" target="_blank">
+		<img src="https://img.shields.io/badge/Website-Resume%2C%20portfolio%2C%20contacts..-green" alt="Website Badge"/>
+	</a>
 </div>
 <hr/>
 <h1>
